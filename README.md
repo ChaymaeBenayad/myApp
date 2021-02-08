@@ -1,2 +1,2 @@
 # myApp
-This is my application.
+This is my awesome application.
